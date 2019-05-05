@@ -10,3 +10,6 @@ Simply execute `make` within the directory of `makefile`
 
 ## Executing
 Execute `s5007230_ass3.exe graph.clq` where `graph.clq` is the name of the clique file.
+
+## Output
+The minimum vertex cover found by the program will be output to *[graph.clq]_COVER.csv*
