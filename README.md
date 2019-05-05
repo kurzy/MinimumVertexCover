@@ -9,4 +9,4 @@ C++ program to approximate the minimum vertex cover of various [DIMACS-C graphs]
 Simply execute `make` within the directory of `makefile`
 
 ## Executing
-`s5007230_ass3.exe graph.clq` where `graph.clq` is the name of the clique file.
+Execute `s5007230_ass3.exe graph.clq` where `graph.clq` is the name of the clique file.
